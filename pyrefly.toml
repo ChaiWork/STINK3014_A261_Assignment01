@@ -1,0 +1,6 @@
+python-interpreter-path = "C:\\Users\\Panda\\AppData\\Local\\Programs\\Python\\Python312\\python.exe"
+preset = "basic"
+replace-untyped-imports-with-any = ["*"]
+
+[errors]
+untyped-import = "ignore"
